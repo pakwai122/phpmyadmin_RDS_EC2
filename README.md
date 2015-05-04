@@ -1,3 +1,4 @@
+Ubuntu Server
 ```
 sudo su
 apt-get update
